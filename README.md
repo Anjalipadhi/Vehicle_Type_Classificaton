@@ -70,6 +70,10 @@ Possible future enhancements:
 -Add real-time vehicle detection
 -Use OpenCV for video classification
 
+**Google Colab Notebook :**
+
+https://colab.research.google.com/drive/1C4QVb15OGFtBFJOE4F3JKnze-PuNFM32?authuser=1#scrollTo=7syLQVp4a4mK
+
 **License**
 
 This project is open-source and available under the MIT License.
