@@ -41,6 +41,7 @@ Dataset Features:
 -Suitable for supervised image classification
 
 Dataset Structure:
+
 <img width="515" height="244" alt="image" src="https://github.com/user-attachments/assets/ddfeb461-84d4-4fcb-8d64-3cdcd6d30320" />
 
 
