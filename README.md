@@ -35,10 +35,10 @@ The project demonstrates the complete workflow of an image classification system
 The project uses a Vehicle Type Image Dataset containing images of various vehicle categories.
 
 Dataset Features:
--Multiple vehicle categories
--RGB vehicle images
--Organized into separate folders by class
--Suitable for supervised image classification
+->Multiple vehicle categories
+->RGB vehicle images
+->Organized into separate folders by class
+->Suitable for supervised image classification
 
 Dataset Structure:
 
@@ -63,12 +63,12 @@ Open Jupyter Notebook or Google Colab and run all cells.
 
 Possible future enhancements:
 
--Use Transfer Learning (ResNet, VGG16, MobileNet)
--Increase dataset size
--Improve model accuracy
--Deploy as a web application
--Add real-time vehicle detection
--Use OpenCV for video classification
+->Use Transfer Learning (ResNet, VGG16, MobileNet)
+->Increase dataset size
+->Improve model accuracy
+->Deploy as a web application
+->Add real-time vehicle detection
+->Use OpenCV for video classification
 
 **Google Colab Notebook :**
 
