@@ -40,6 +40,7 @@ Dataset Features:
 -Organized into separate folders by class
 -Suitable for supervised image classification
 
+Dataset Structure:
 <img width="515" height="244" alt="image" src="https://github.com/user-attachments/assets/ddfeb461-84d4-4fcb-8d64-3cdcd6d30320" />
 
 
@@ -68,7 +69,10 @@ Possible future enhancements:
 -Add real-time vehicle detection
 -Use OpenCV for video classification
 
-
 **License**
 
 This project is open-source and available under the MIT License.
+
+**Acknowledgement**
+
+I would like to thank the developers of TensorFlow, Keras, Scikit-learn, and other open-source libraries used in this project. I also express gratitude to my mentors, faculty members, and online learning resources for their guidance and support throughout the development of this project.
