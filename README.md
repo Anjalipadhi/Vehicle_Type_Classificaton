@@ -29,6 +29,7 @@ The project demonstrates the complete workflow of an image classification system
     ~ Seaborn
     ~ Scikit-learn
     ~ PIL (Python Imaging Library)
+  
 
 **Dataset Information**
 
@@ -45,6 +46,7 @@ Dataset Structure:
 <img width="515" height="244" alt="image" src="https://github.com/user-attachments/assets/ddfeb461-84d4-4fcb-8d64-3cdcd6d30320" />
 
 
+
 **Installation & Setup**
 
 Step 1: Clone Repository
@@ -59,6 +61,7 @@ pip install tensorflow numpy matplotlib seaborn scikit-learn pillow
 Step 4: Run the Notebook
 Open Jupyter Notebook or Google Colab and run all cells.
 
+
 **Future Improvements**
 
 Possible future enhancements:
@@ -70,13 +73,16 @@ Possible future enhancements:
 ->Add real-time vehicle detection
 ->Use OpenCV for video classification
 
+
 **Google Colab Notebook :**
 
 https://colab.research.google.com/drive/1C4QVb15OGFtBFJOE4F3JKnze-PuNFM32?authuser=1#scrollTo=7syLQVp4a4mK
 
+
 **License**
 
 This project is open-source and available under the MIT License.
+
 
 **Acknowledgement**
 
