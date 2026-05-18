@@ -40,16 +40,34 @@ Dataset Features:
 -Organized into separate folders by class
 -Suitable for supervised image classification
 
+<img width="515" height="244" alt="image" src="https://github.com/user-attachments/assets/ddfeb461-84d4-4fcb-8d64-3cdcd6d30320" />
+
+
 **Installation & Setup**
 
 Step 1: Clone Repository
 git clone https://github.com/anjalipadhi/vehicle-type-classification.git
+
 Step 2: Navigate to Project Folder
 cd vehicle-type-classification
+
 Step 3: Install Dependencies
 pip install tensorflow numpy matplotlib seaborn scikit-learn pillow
+
 Step 4: Run the Notebook
 Open Jupyter Notebook or Google Colab and run all cells.
+
+**Future Improvements**
+
+Possible future enhancements:
+
+-Use Transfer Learning (ResNet, VGG16, MobileNet)
+-Increase dataset size
+-Improve model accuracy
+-Deploy as a web application
+-Add real-time vehicle detection
+-Use OpenCV for video classification
+
 
 **License**
 
