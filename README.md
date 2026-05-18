@@ -20,16 +20,47 @@ The project demonstrates the complete workflow of an image classification system
 
 **Technologies Used**
 
-Technology	                               Purpose
-Python	                              Core programming language used for development
-TensorFlow	                          Deep learning framework used for model training
-Keras	                                High-level API for building CNN models
-NumPy	                                Numerical computations and array operations
-Matplotlib	                          Plotting graphs and visualizations
-Seaborn	                              Creating confusion matrix heatmaps
-Scikit-learn	                        Performance metrics and evaluation
-PIL(Python Imaging Library)	          Image loading and preprocessing
-Jupyter Notebook / Google Colab  	    Development and experimentation environment
-CNN (Convolutional Neural Network)  	Deep learning architecture for image classification
-Deep Learning	                        AI technique used for automatic feature extraction
-Computer Vision	                      Field used for image recognition and classification
+- Programming Language: Python
+- libraries:
+    ~ TensorFlow
+    ~ Keras
+    ~ NumPy
+    ~ Matplotlib
+    ~ Seaborn
+    ~ Scikit-learn
+    ~ PIL (Python Imaging Library)
+
+**Dataset Information**
+
+The project uses a Vehicle Type Image Dataset containing images of various vehicle categories.
+
+Dataset Features:
+-Multiple vehicle categories
+-RGB vehicle images
+-Organized into separate folders by class
+-Suitable for supervised image classification
+
+Dataset Structure: 
+vehicle_dataset/
+│
+├── Vehicle Type Image Dataset (Version 2) VTID2/
+│   ├── Bus/
+│   ├── Car/
+│   ├── Motorcycle/
+│   ├── Truck/
+│   ├── Bicycle/
+│   └── ...
+
+**Installation & Setup**
+Step 1: Clone Repository
+git clone https://github.com/your-username/vehicle-type-classification.git
+Step 2: Navigate to Project Folder
+cd vehicle-type-classification
+Step 3: Install Dependencies
+pip install tensorflow numpy matplotlib seaborn scikit-learn pillow
+Step 4: Run the Notebook
+Open Jupyter Notebook or Google Colab and run all cells.
+
+**License**
+
+This project is open-source and available under the MIT License.
