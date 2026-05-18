@@ -40,20 +40,10 @@ Dataset Features:
 -Organized into separate folders by class
 -Suitable for supervised image classification
 
-Dataset Structure: 
-vehicle_dataset/
-│
-├── Vehicle Type Image Dataset (Version 2) VTID2/
-│   ├── Bus/
-│   ├── Car/
-│   ├── Motorcycle/
-│   ├── Truck/
-│   ├── Bicycle/
-│   └── ...
-
 **Installation & Setup**
+
 Step 1: Clone Repository
-git clone https://github.com/your-username/vehicle-type-classification.git
+git clone https://github.com/anjalipadhi/vehicle-type-classification.git
 Step 2: Navigate to Project Folder
 cd vehicle-type-classification
 Step 3: Install Dependencies
