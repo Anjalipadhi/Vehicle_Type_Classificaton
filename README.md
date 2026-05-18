@@ -17,23 +17,19 @@ The project demonstrates the complete workflow of an image classification system
 - Confusion matrix generation
 - Classification report analysis
 
-This project is ideal for beginners and intermediate learners interested in:
 
-Computer Vision
-Deep Learning
-Image Classification
-TensorFlow & Keras
-Artificial Intelligence Projects
+**Technologies Used**
 
-** Technologies Used**
-
-Technology	Purpose
-Python	Programming Language
-TensorFlow	Deep Learning Framework
-Keras	Neural Network API
-NumPy	Numerical Operations
-Matplotlib	Data Visualization
-Seaborn	Confusion Matrix Visualization
-Scikit-learn	Model Evaluation Metrics
-PIL (Python Imaging Library)	Image Processing
-Google Colab / Jupyter Notebook	Development Environment
+Technology	                               Purpose
+Python	                              Core programming language used for development
+TensorFlow	                          Deep learning framework used for model training
+Keras	                                High-level API for building CNN models
+NumPy	                                Numerical computations and array operations
+Matplotlib	                          Plotting graphs and visualizations
+Seaborn	                              Creating confusion matrix heatmaps
+Scikit-learn	                        Performance metrics and evaluation
+PIL(Python Imaging Library)	          Image loading and preprocessing
+Jupyter Notebook / Google Colab  	    Development and experimentation environment
+CNN (Convolutional Neural Network)  	Deep learning architecture for image classification
+Deep Learning	                        AI technique used for automatic feature extraction
+Computer Vision	                      Field used for image recognition and classification
